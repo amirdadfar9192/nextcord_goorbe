@@ -1,0 +1,6 @@
+nextcord
+NextcordUtils
+requests==2.26.0
+NextcordUtils[voice]
+ffmpeg
+youtube_dl
