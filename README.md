@@ -1,0 +1,2 @@
+# nextcord_goorbe
+ 
